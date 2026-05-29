@@ -98,7 +98,7 @@ The project includes:
 ## 1. Clone Repository
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/zunaira-hameed/california-housing-prediction/
 ```
 
 ---
@@ -126,7 +126,6 @@ or open the notebook in Jupyter Notebook.
 ```bash
 ├── housing.csv
 ├── california_housing.ipynb
-├── california_random_forest.pkl
 ├── README.md
 ```
 
